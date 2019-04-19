@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-Enterprise-0.2.56-resign.ipa</string>
+                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-Enterprise-0.2.63-resign.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>DDM-Wallet</string>
+                <string>DDM銭包</string>
             </dict>
         </dict>
     </array>
