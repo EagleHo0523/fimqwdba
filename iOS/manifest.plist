@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-v0.3.17-signed-renew.ipa</string>
+                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-v0.3.17-renew.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.ddm.exchangewallet.enterprise1</string>
                 <key>bundle-version</key>
-                <string>0.3.17.1</string>
+                <string>0.3.17.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
