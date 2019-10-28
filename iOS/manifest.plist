@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-v1.6.11-signed.ipa</string>
+                    <string>https://eagleho0523.github.io/fimqwdba/iOS/DDMWallet-v1.6.23-signed.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.ddm.exchangewallet.enterprise1</string>
                 <key>bundle-version</key>
-                <string>1.6.11</string>
+                <string>1.6.23</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
